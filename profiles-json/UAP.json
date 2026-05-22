@@ -1,0 +1,266 @@
+{
+  "famille": "UAP",
+  "description": "Profilés UAP - Catalogue des sections laminées",
+  "unite": {
+    "masse": "kg/m",
+    "longueur": "mm",
+    "aire": "cm²",
+    "inertie": "cm⁴",
+    "module_flexion": "cm³",
+    "rayon_giration": "cm"
+  },
+  "profils": [
+    {
+      "designation": "UAP 80",
+      "G_kg_ml": 8.38,
+      "dimensions": {
+        "h_mm": 80.0,
+        "b_mm": 45.0,
+        "tw_mm": 5.0,
+        "tf_mm": 8.0,
+        "r_mm": 8.0
+      },
+      "section": {
+        "A_cm2": 10.67,
+        "Avy_cm2": 4.51,
+        "Avz_cm2": 7.2
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 107.1,
+        "Wely_cm3": 26.78,
+        "Wply_cm3": 31.87,
+        "iy_cm": 3.17
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 21.33,
+        "Welz_cm3": 7.38,
+        "Wplz_cm3": 13.64,
+        "iz_cm": 1.41
+      }
+    },
+    {
+      "designation": "UAP 100",
+      "G_kg_ml": 10.5,
+      "dimensions": {
+        "h_mm": 100.0,
+        "b_mm": 50.0,
+        "tw_mm": 5.5,
+        "tf_mm": 8.5,
+        "r_mm": 8.5
+      },
+      "section": {
+        "A_cm2": 13.38,
+        "Avy_cm2": 6.07,
+        "Avz_cm2": 8.5
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 209.5,
+        "Wely_cm3": 41.9,
+        "Wply_cm3": 49.59,
+        "iy_cm": 3.96
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 32.83,
+        "Welz_cm3": 9.95,
+        "Wplz_cm3": 18.47,
+        "iz_cm": 1.57
+      }
+    },
+    {
+      "designation": "UAP 130",
+      "G_kg_ml": 13.7,
+      "dimensions": {
+        "h_mm": 130.0,
+        "b_mm": 55.0,
+        "tw_mm": 6.0,
+        "tf_mm": 9.5,
+        "r_mm": 9.5
+      },
+      "section": {
+        "A_cm2": 17.5,
+        "Avy_cm2": 8.52,
+        "Avz_cm2": 10.45
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 459.6,
+        "Wely_cm3": 70.7,
+        "Wply_cm3": 83.51,
+        "iy_cm": 5.12
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 51.34,
+        "Welz_cm3": 13.78,
+        "Wplz_cm3": 25.55,
+        "iz_cm": 1.71
+      }
+    },
+    {
+      "designation": "UAP 150",
+      "G_kg_ml": 17.9,
+      "dimensions": {
+        "h_mm": 150.0,
+        "b_mm": 65.0,
+        "tw_mm": 7.0,
+        "tf_mm": 10.25,
+        "r_mm": 10.25
+      },
+      "section": {
+        "A_cm2": 22.84,
+        "Avy_cm2": 11.28,
+        "Avz_cm2": 13.325
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 796.1,
+        "Wely_cm3": 106.1,
+        "Wply_cm3": 125.3,
+        "iy_cm": 5.9
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 93.25,
+        "Welz_cm3": 20.97,
+        "Wplz_cm3": 38.78,
+        "iz_cm": 2.02
+      }
+    },
+    {
+      "designation": "UAP 175",
+      "G_kg_ml": 21.2,
+      "dimensions": {
+        "h_mm": 175.0,
+        "b_mm": 70.0,
+        "tw_mm": 7.5,
+        "tf_mm": 10.75,
+        "r_mm": 10.75
+      },
+      "section": {
+        "A_cm2": 27.06,
+        "Avy_cm2": 13.97,
+        "Avz_cm2": 15.05
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 1270.0,
+        "Wely_cm3": 145.1,
+        "Wply_cm3": 171.5,
+        "iy_cm": 6.85
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 126.4,
+        "Welz_cm3": 25.92,
+        "Wplz_cm3": 47.47,
+        "iz_cm": 2.16
+      }
+    },
+    {
+      "designation": "UAP 200",
+      "G_kg_ml": 25.1,
+      "dimensions": {
+        "h_mm": 200.0,
+        "b_mm": 75.0,
+        "tw_mm": 8.0,
+        "tf_mm": 11.5,
+        "r_mm": 11.5
+      },
+      "section": {
+        "A_cm2": 31.98,
+        "Avy_cm2": 16.97,
+        "Avz_cm2": 17.25
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 1946.0,
+        "Wely_cm3": 194.6,
+        "Wply_cm3": 230.1,
+        "iy_cm": 7.8
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 169.7,
+        "Welz_cm3": 32.13,
+        "Wplz_cm3": 58.29,
+        "iz_cm": 2.3
+      }
+    },
+    {
+      "designation": "UAP 220",
+      "G_kg_ml": 28.5,
+      "dimensions": {
+        "h_mm": 220.0,
+        "b_mm": 80.0,
+        "tw_mm": 8.0,
+        "tf_mm": 12.5,
+        "r_mm": 12.5
+      },
+      "section": {
+        "A_cm2": 36.27,
+        "Avy_cm2": 18.83,
+        "Avz_cm2": 20.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 2710.0,
+        "Wely_cm3": 246.4,
+        "Wply_cm3": 289.9,
+        "iy_cm": 8.64
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 222.3,
+        "Welz_cm3": 39.68,
+        "Wplz_cm3": 72.56,
+        "iz_cm": 2.48
+      }
+    },
+    {
+      "designation": "UAP 250",
+      "G_kg_ml": 34.4,
+      "dimensions": {
+        "h_mm": 250.0,
+        "b_mm": 85.0,
+        "tw_mm": 9.0,
+        "tf_mm": 13.5,
+        "r_mm": 13.5
+      },
+      "section": {
+        "A_cm2": 43.8,
+        "Avy_cm2": 23.89,
+        "Avz_cm2": 22.95
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 4136.0,
+        "Wely_cm3": 330.9,
+        "Wply_cm3": 391.8,
+        "iy_cm": 9.72
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 295.4,
+        "Welz_cm3": 48.87,
+        "Wplz_cm3": 87.65,
+        "iz_cm": 2.6
+      }
+    },
+    {
+      "designation": "UAP 300",
+      "G_kg_ml": 46.0,
+      "dimensions": {
+        "h_mm": 300.0,
+        "b_mm": 100.0,
+        "tw_mm": 9.5,
+        "tf_mm": 16.0,
+        "r_mm": 16.0
+      },
+      "section": {
+        "A_cm2": 58.56,
+        "Avy_cm2": 30.64,
+        "Avz_cm2": 32.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 8170.0,
+        "Wely_cm3": 544.7,
+        "Wply_cm3": 639.3,
+        "iy_cm": 11.81
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 562.1,
+        "Welz_cm3": 79.88,
+        "Wplz_cm3": 145.8,
+        "iz_cm": 3.1
+      }
+    }
+  ]
+}

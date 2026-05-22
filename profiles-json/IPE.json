@@ -1,0 +1,518 @@
+{
+  "famille": "IPE",
+  "description": "Profilés IPE - Catalogue des sections laminées",
+  "unite": {
+    "masse": "kg/m",
+    "longueur": "mm",
+    "aire": "cm²",
+    "inertie": "cm⁴",
+    "module_flexion": "cm³",
+    "rayon_giration": "cm"
+  },
+  "profils": [
+    {
+      "designation": "IPE 80",
+      "G_kg_ml": 6.0,
+      "dimensions": {
+        "h_mm": 80.0,
+        "b_mm": 46.0,
+        "tw_mm": 3.8,
+        "tf_mm": 5.2,
+        "r_mm": 5.0
+      },
+      "section": {
+        "A_cm2": 7.64,
+        "Avy_cm2": 3.58,
+        "Avz_cm2": 4.784
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 80.14,
+        "Wely_cm3": 20.03,
+        "Wply_cm3": 23.22,
+        "iy_cm": 3.24
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 8.48,
+        "Welz_cm3": 3.69,
+        "Wplz_cm3": 5.82,
+        "iz_cm": 1.05
+      }
+    },
+    {
+      "designation": "IPE 100",
+      "G_kg_ml": 8.1,
+      "dimensions": {
+        "h_mm": 100.0,
+        "b_mm": 55.0,
+        "tw_mm": 4.1,
+        "tf_mm": 5.7,
+        "r_mm": 7.0
+      },
+      "section": {
+        "A_cm2": 10.3,
+        "Avy_cm2": 5.08,
+        "Avz_cm2": 6.27
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 171.0,
+        "Wely_cm3": 34.2,
+        "Wply_cm3": 39.41,
+        "iy_cm": 4.07
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 15.92,
+        "Welz_cm3": 5.79,
+        "Wplz_cm3": 9.15,
+        "iz_cm": 1.24
+      }
+    },
+    {
+      "designation": "IPE 120",
+      "G_kg_ml": 10.4,
+      "dimensions": {
+        "h_mm": 120.0,
+        "b_mm": 64.0,
+        "tw_mm": 4.4,
+        "tf_mm": 6.3,
+        "r_mm": 7.0
+      },
+      "section": {
+        "A_cm2": 13.2,
+        "Avy_cm2": 6.31,
+        "Avz_cm2": 8.064
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 317.8,
+        "Wely_cm3": 52.96,
+        "Wply_cm3": 60.73,
+        "iy_cm": 4.9
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 27.67,
+        "Welz_cm3": 8.65,
+        "Wplz_cm3": 13.58,
+        "iz_cm": 1.45
+      }
+    },
+    {
+      "designation": "IPE 140",
+      "G_kg_ml": 12.9,
+      "dimensions": {
+        "h_mm": 140.0,
+        "b_mm": 73.0,
+        "tw_mm": 4.7,
+        "tf_mm": 6.9,
+        "r_mm": 7.0
+      },
+      "section": {
+        "A_cm2": 16.4,
+        "Avy_cm2": 7.64,
+        "Avz_cm2": 10.074
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 541.2,
+        "Wely_cm3": 77.32,
+        "Wply_cm3": 88.34,
+        "iy_cm": 5.74
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 44.92,
+        "Welz_cm3": 12.31,
+        "Wplz_cm3": 19.25,
+        "iz_cm": 1.65
+      }
+    },
+    {
+      "designation": "IPE 160",
+      "G_kg_ml": 15.8,
+      "dimensions": {
+        "h_mm": 160.0,
+        "b_mm": 82.0,
+        "tw_mm": 5.0,
+        "tf_mm": 7.4,
+        "r_mm": 9.0
+      },
+      "section": {
+        "A_cm2": 20.1,
+        "Avy_cm2": 9.66,
+        "Avz_cm2": 12.136
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 869.3,
+        "Wely_cm3": 108.7,
+        "Wply_cm3": 123.9,
+        "iy_cm": 6.58
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 68.31,
+        "Welz_cm3": 16.66,
+        "Wplz_cm3": 26.1,
+        "iz_cm": 1.84
+      }
+    },
+    {
+      "designation": "IPE 180",
+      "G_kg_ml": 18.8,
+      "dimensions": {
+        "h_mm": 180.0,
+        "b_mm": 91.0,
+        "tw_mm": 5.3,
+        "tf_mm": 8.0,
+        "r_mm": 9.0
+      },
+      "section": {
+        "A_cm2": 23.9,
+        "Avy_cm2": 11.25,
+        "Avz_cm2": 14.56
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 1317.0,
+        "Wely_cm3": 146.3,
+        "Wply_cm3": 166.4,
+        "iy_cm": 7.42
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 100.9,
+        "Welz_cm3": 22.16,
+        "Wplz_cm3": 34.6,
+        "iz_cm": 2.05
+      }
+    },
+    {
+      "designation": "IPE 200",
+      "G_kg_ml": 22.4,
+      "dimensions": {
+        "h_mm": 200.0,
+        "b_mm": 100.0,
+        "tw_mm": 5.6,
+        "tf_mm": 8.5,
+        "r_mm": 12.0
+      },
+      "section": {
+        "A_cm2": 28.5,
+        "Avy_cm2": 14.0,
+        "Avz_cm2": 17.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 1943.0,
+        "Wely_cm3": 194.3,
+        "Wply_cm3": 220.6,
+        "iy_cm": 8.26
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 142.4,
+        "Welz_cm3": 28.47,
+        "Wplz_cm3": 44.61,
+        "iz_cm": 2.24
+      }
+    },
+    {
+      "designation": "IPE 220",
+      "G_kg_ml": 26.2,
+      "dimensions": {
+        "h_mm": 220.0,
+        "b_mm": 110.0,
+        "tw_mm": 5.9,
+        "tf_mm": 9.2,
+        "r_mm": 12.0
+      },
+      "section": {
+        "A_cm2": 33.4,
+        "Avy_cm2": 15.88,
+        "Avz_cm2": 20.24
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 2772.0,
+        "Wely_cm3": 252.0,
+        "Wply_cm3": 285.4,
+        "iy_cm": 9.11
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 204.9,
+        "Welz_cm3": 37.25,
+        "Wplz_cm3": 58.11,
+        "iz_cm": 2.48
+      }
+    },
+    {
+      "designation": "IPE 240",
+      "G_kg_ml": 30.7,
+      "dimensions": {
+        "h_mm": 240.0,
+        "b_mm": 120.0,
+        "tw_mm": 6.2,
+        "tf_mm": 9.8,
+        "r_mm": 15.0
+      },
+      "section": {
+        "A_cm2": 39.12,
+        "Avy_cm2": 19.14,
+        "Avz_cm2": 23.52
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 3892.0,
+        "Wely_cm3": 324.3,
+        "Wply_cm3": 366.6,
+        "iy_cm": 9.97
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 283.6,
+        "Welz_cm3": 47.27,
+        "Wplz_cm3": 73.92,
+        "iz_cm": 2.69
+      }
+    },
+    {
+      "designation": "IPE 270",
+      "G_kg_ml": 36.1,
+      "dimensions": {
+        "h_mm": 270.0,
+        "b_mm": 135.0,
+        "tw_mm": 6.6,
+        "tf_mm": 10.2,
+        "r_mm": 15.0
+      },
+      "section": {
+        "A_cm2": 45.94,
+        "Avy_cm2": 22.14,
+        "Avz_cm2": 27.54
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 5790.0,
+        "Wely_cm3": 428.9,
+        "Wply_cm3": 484.0,
+        "iy_cm": 11.23
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 419.9,
+        "Welz_cm3": 62.2,
+        "Wplz_cm3": 96.95,
+        "iz_cm": 3.02
+      }
+    },
+    {
+      "designation": "IPE 300",
+      "G_kg_ml": 42.2,
+      "dimensions": {
+        "h_mm": 300.0,
+        "b_mm": 150.0,
+        "tw_mm": 7.1,
+        "tf_mm": 10.7,
+        "r_mm": 15.0
+      },
+      "section": {
+        "A_cm2": 53.81,
+        "Avy_cm2": 25.68,
+        "Avz_cm2": 32.1
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 8356.0,
+        "Wely_cm3": 557.1,
+        "Wply_cm3": 628.4,
+        "iy_cm": 12.46
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 603.8,
+        "Welz_cm3": 80.5,
+        "Wplz_cm3": 125.2,
+        "iz_cm": 3.35
+      }
+    },
+    {
+      "designation": "IPE 330",
+      "G_kg_ml": 49.1,
+      "dimensions": {
+        "h_mm": 330.0,
+        "b_mm": 160.0,
+        "tw_mm": 7.5,
+        "tf_mm": 11.5,
+        "r_mm": 18.0
+      },
+      "section": {
+        "A_cm2": 62.61,
+        "Avy_cm2": 30.81,
+        "Avz_cm2": 36.8
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 11770.0,
+        "Wely_cm3": 713.1,
+        "Wply_cm3": 804.3,
+        "iy_cm": 13.71
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 788.1,
+        "Welz_cm3": 98.52,
+        "Wplz_cm3": 153.7,
+        "iz_cm": 3.55
+      }
+    },
+    {
+      "designation": "IPE 360",
+      "G_kg_ml": 57.1,
+      "dimensions": {
+        "h_mm": 360.0,
+        "b_mm": 170.0,
+        "tw_mm": 8.0,
+        "tf_mm": 12.7,
+        "r_mm": 18.0
+      },
+      "section": {
+        "A_cm2": 72.73,
+        "Avy_cm2": 35.14,
+        "Avz_cm2": 43.18
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 16270.0,
+        "Wely_cm3": 903.6,
+        "Wply_cm3": 1019.0,
+        "iy_cm": 14.95
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 1043.0,
+        "Welz_cm3": 122.8,
+        "Wplz_cm3": 191.1,
+        "iz_cm": 3.79
+      }
+    },
+    {
+      "designation": "IPE 400",
+      "G_kg_ml": 66.3,
+      "dimensions": {
+        "h_mm": 400.0,
+        "b_mm": 180.0,
+        "tw_mm": 8.6,
+        "tf_mm": 13.5,
+        "r_mm": 21.0
+      },
+      "section": {
+        "A_cm2": 84.46,
+        "Avy_cm2": 42.69,
+        "Avz_cm2": 48.6
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 23130.0,
+        "Wely_cm3": 1156.0,
+        "Wply_cm3": 1307.0,
+        "iy_cm": 16.55
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 1318.0,
+        "Welz_cm3": 146.4,
+        "Wplz_cm3": 229.0,
+        "iz_cm": 3.95
+      }
+    },
+    {
+      "designation": "IPE 450",
+      "G_kg_ml": 77.6,
+      "dimensions": {
+        "h_mm": 450.0,
+        "b_mm": 190.0,
+        "tw_mm": 9.4,
+        "tf_mm": 14.6,
+        "r_mm": 21.0
+      },
+      "section": {
+        "A_cm2": 98.82,
+        "Avy_cm2": 50.85,
+        "Avz_cm2": 55.48
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 33740.0,
+        "Wely_cm3": 1500.0,
+        "Wply_cm3": 1702.0,
+        "iy_cm": 18.48
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 1676.0,
+        "Welz_cm3": 176.4,
+        "Wplz_cm3": 276.4,
+        "iz_cm": 4.12
+      }
+    },
+    {
+      "designation": "IPE 500",
+      "G_kg_ml": 90.7,
+      "dimensions": {
+        "h_mm": 500.0,
+        "b_mm": 200.0,
+        "tw_mm": 10.2,
+        "tf_mm": 16.0,
+        "r_mm": 21.0
+      },
+      "section": {
+        "A_cm2": 115.5,
+        "Avy_cm2": 59.87,
+        "Avz_cm2": 64.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 48200.0,
+        "Wely_cm3": 1928.0,
+        "Wply_cm3": 2194.0,
+        "iy_cm": 20.43
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 2142.0,
+        "Welz_cm3": 214.2,
+        "Wplz_cm3": 335.9,
+        "iz_cm": 4.31
+      }
+    },
+    {
+      "designation": "IPE 550",
+      "G_kg_ml": 106.0,
+      "dimensions": {
+        "h_mm": 550.0,
+        "b_mm": 210.0,
+        "tw_mm": 11.1,
+        "tf_mm": 17.2,
+        "r_mm": 24.0
+      },
+      "section": {
+        "A_cm2": 134.4,
+        "Avy_cm2": 72.34,
+        "Avz_cm2": 72.24
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 67120.0,
+        "Wely_cm3": 2441.0,
+        "Wply_cm3": 2787.0,
+        "iy_cm": 22.35
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 2668.0,
+        "Welz_cm3": 254.1,
+        "Wplz_cm3": 400.5,
+        "iz_cm": 4.45
+      }
+    },
+    {
+      "designation": "IPE 600",
+      "G_kg_ml": 122.0,
+      "dimensions": {
+        "h_mm": 600.0,
+        "b_mm": 220.0,
+        "tw_mm": 12.0,
+        "tf_mm": 19.0,
+        "r_mm": 24.0
+      },
+      "section": {
+        "A_cm2": 156.0,
+        "Avy_cm2": 83.78,
+        "Avz_cm2": 83.6
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 92080.0,
+        "Wely_cm3": 3069.0,
+        "Wply_cm3": 3512.0,
+        "iy_cm": 24.3
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 3387.0,
+        "Welz_cm3": 307.9,
+        "Wplz_cm3": 485.6,
+        "iz_cm": 4.66
+      }
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "famille": "UPN",
+  "description": "Profilés UPN - Catalogue des sections laminées",
+  "unite": {
+    "masse": "kg/m",
+    "longueur": "mm",
+    "aire": "cm²",
+    "inertie": "cm⁴",
+    "module_flexion": "cm³",
+    "rayon_giration": "cm"
+  },
+  "profils": [
+    {
+      "designation": "UPN 80",
+      "G_kg_ml": 8.65,
+      "dimensions": {
+        "h_mm": 80.0,
+        "b_mm": 45.0,
+        "tw_mm": 6.0,
+        "tf_mm": 8.0,
+        "r_mm": 8.0
+      },
+      "section": {
+        "A_cm2": 11.0,
+        "Avy_cm2": 5.1,
+        "Avz_cm2": 7.2
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 106.0,
+        "Wely_cm3": 26.5,
+        "Wply_cm3": 31.8,
+        "iy_cm": 3.1
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 19.4,
+        "Welz_cm3": 6.36,
+        "Wplz_cm3": 12.1,
+        "iz_cm": 1.33
+      }
+    },
+    {
+      "designation": "UPN 100",
+      "G_kg_ml": 10.6,
+      "dimensions": {
+        "h_mm": 80.0,
+        "b_mm": 45.0,
+        "tw_mm": 6.0,
+        "tf_mm": 8.0,
+        "r_mm": 8.0
+      },
+      "section": {
+        "A_cm2": 13.5,
+        "Avy_cm2": 6.46,
+        "Avz_cm2": 7.2
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 206.0,
+        "Wely_cm3": 41.2,
+        "Wply_cm3": 49.0,
+        "iy_cm": 3.91
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 29.3,
+        "Welz_cm3": 8.46,
+        "Wplz_cm3": 16.2,
+        "iz_cm": 1.47
+      }
+    },
+    {
+      "designation": "UPN 120",
+      "G_kg_ml": 13.4,
+      "dimensions": {
+        "h_mm": 120.0,
+        "b_mm": 55.0,
+        "tw_mm": 7.0,
+        "tf_mm": 9.0,
+        "r_mm": 9.0
+      },
+      "section": {
+        "A_cm2": 17.0,
+        "Avy_cm2": 8.8,
+        "Avz_cm2": 9.9
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 364.0,
+        "Wely_cm3": 60.7,
+        "Wply_cm3": 72.6,
+        "iy_cm": 4.62
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 43.2,
+        "Welz_cm3": 11.1,
+        "Wplz_cm3": 21.2,
+        "iz_cm": 1.59
+      }
+    },
+    {
+      "designation": "UPN 140",
+      "G_kg_ml": 16.0,
+      "dimensions": {
+        "h_mm": 140.0,
+        "b_mm": 60.0,
+        "tw_mm": 7.0,
+        "tf_mm": 10.0,
+        "r_mm": 10.0
+      },
+      "section": {
+        "A_cm2": 20.4,
+        "Avy_cm2": 10.41,
+        "Avz_cm2": 12.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 605.0,
+        "Wely_cm3": 86.4,
+        "Wply_cm3": 103.0,
+        "iy_cm": 5.45
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 62.7,
+        "Welz_cm3": 14.8,
+        "Wplz_cm3": 28.3,
+        "iz_cm": 1.75
+      }
+    },
+    {
+      "designation": "UPN 160",
+      "G_kg_ml": 18.8,
+      "dimensions": {
+        "h_mm": 160.0,
+        "b_mm": 65.0,
+        "tw_mm": 7.5,
+        "tf_mm": 10.5,
+        "r_mm": 10.5
+      },
+      "section": {
+        "A_cm2": 24.0,
+        "Avy_cm2": 12.6,
+        "Avz_cm2": 13.65
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 925.0,
+        "Wely_cm3": 116.0,
+        "Wply_cm3": 138.0,
+        "iy_cm": 6.21
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 85.3,
+        "Welz_cm3": 18.3,
+        "Wplz_cm3": 35.2,
+        "iz_cm": 1.89
+      }
+    },
+    {
+      "designation": "UPN 180",
+      "G_kg_ml": 22.0,
+      "dimensions": {
+        "h_mm": 180.0,
+        "b_mm": 70.0,
+        "tw_mm": 8.0,
+        "tf_mm": 11.0,
+        "r_mm": 11.0
+      },
+      "section": {
+        "A_cm2": 28.0,
+        "Avy_cm2": 15.09,
+        "Avz_cm2": 15.4
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 1350.0,
+        "Wely_cm3": 150.0,
+        "Wply_cm3": 179.0,
+        "iy_cm": 6.95
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 114.0,
+        "Welz_cm3": 22.4,
+        "Wplz_cm3": 42.9,
+        "iz_cm": 2.02
+      }
+    },
+    {
+      "designation": "UPN 200",
+      "G_kg_ml": 25.3,
+      "dimensions": {
+        "h_mm": 180.0,
+        "b_mm": 75.0,
+        "tw_mm": 8.5,
+        "tf_mm": 11.5,
+        "r_mm": 11.5
+      },
+      "section": {
+        "A_cm2": 32.2,
+        "Avy_cm2": 17.71,
+        "Avz_cm2": 17.25
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 1910.0,
+        "Wely_cm3": 191.0,
+        "Wply_cm3": 228.0,
+        "iy_cm": 7.7
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 148.0,
+        "Welz_cm3": 27.0,
+        "Wplz_cm3": 51.8,
+        "iz_cm": 2.14
+      }
+    },
+    {
+      "designation": "UPN 220",
+      "G_kg_ml": 29.4,
+      "dimensions": {
+        "h_mm": 220.0,
+        "b_mm": 80.0,
+        "tw_mm": 9.0,
+        "tf_mm": 12.5,
+        "r_mm": 12.5
+      },
+      "section": {
+        "A_cm2": 37.4,
+        "Avy_cm2": 20.62,
+        "Avz_cm2": 20.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 2690.0,
+        "Wely_cm3": 245.0,
+        "Wply_cm3": 292.0,
+        "iy_cm": 8.48
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 197.0,
+        "Welz_cm3": 33.6,
+        "Wplz_cm3": 64.1,
+        "iz_cm": 2.3
+      }
+    },
+    {
+      "designation": "UPN 240",
+      "G_kg_ml": 33.2,
+      "dimensions": {
+        "h_mm": 240.0,
+        "b_mm": 85.0,
+        "tw_mm": 9.5,
+        "tf_mm": 13.0,
+        "r_mm": 13.0
+      },
+      "section": {
+        "A_cm2": 42.3,
+        "Avy_cm2": 23.71,
+        "Avz_cm2": 22.1
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 3600.0,
+        "Wely_cm3": 300.0,
+        "Wply_cm3": 358.0,
+        "iy_cm": 9.22
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 248.0,
+        "Welz_cm3": 39.6,
+        "Wplz_cm3": 75.7,
+        "iz_cm": 2.42
+      }
+    },
+    {
+      "designation": "UPN 260",
+      "G_kg_ml": 37.9,
+      "dimensions": {
+        "h_mm": 260.0,
+        "b_mm": 90.0,
+        "tw_mm": 10.0,
+        "tf_mm": 14.0,
+        "r_mm": 14.0
+      },
+      "section": {
+        "A_cm2": 48.3,
+        "Avy_cm2": 27.12,
+        "Avz_cm2": 25.2
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 4820.0,
+        "Wely_cm3": 371.0,
+        "Wply_cm3": 442.0,
+        "iy_cm": 9.99
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 317.0,
+        "Welz_cm3": 47.7,
+        "Wplz_cm3": 91.6,
+        "iz_cm": 2.56
+      }
+    },
+    {
+      "designation": "UPN 280",
+      "G_kg_ml": 41.8,
+      "dimensions": {
+        "h_mm": 280.0,
+        "b_mm": 95.0,
+        "tw_mm": 10.0,
+        "tf_mm": 15.0,
+        "r_mm": 15.0
+      },
+      "section": {
+        "A_cm2": 53.3,
+        "Avy_cm2": 29.28,
+        "Avz_cm2": 28.5
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 6280.0,
+        "Wely_cm3": 448.0,
+        "Wply_cm3": 532.0,
+        "iy_cm": 10.9
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 399.0,
+        "Welz_cm3": 57.2,
+        "Wplz_cm3": 109.0,
+        "iz_cm": 2.74
+      }
+    },
+    {
+      "designation": "UPN 300",
+      "G_kg_ml": 46.2,
+      "dimensions": {
+        "h_mm": 300.0,
+        "b_mm": 100.0,
+        "tw_mm": 10.0,
+        "tf_mm": 16.0,
+        "r_mm": 16.0
+      },
+      "section": {
+        "A_cm2": 58.8,
+        "Avy_cm2": 31.77,
+        "Avz_cm2": 32.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 8030.0,
+        "Wely_cm3": 535.0,
+        "Wply_cm3": 632.0,
+        "iy_cm": 11.7
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 495.0,
+        "Welz_cm3": 67.8,
+        "Wplz_cm3": 130.0,
+        "iz_cm": 2.9
+      }
+    },
+    {
+      "designation": "UPN 320",
+      "G_kg_ml": 59.5,
+      "dimensions": {
+        "h_mm": 320.0,
+        "b_mm": 100.0,
+        "tw_mm": 14.0,
+        "tf_mm": 17.5,
+        "r_mm": 17.5
+      },
+      "section": {
+        "A_cm2": 75.8,
+        "Avy_cm2": 47.11,
+        "Avz_cm2": 35.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 10870.0,
+        "Wely_cm3": 679.0,
+        "Wply_cm3": 826.0,
+        "iy_cm": 12.1
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 597.0,
+        "Welz_cm3": 80.6,
+        "Wplz_cm3": 152.0,
+        "iz_cm": 2.81
+      }
+    },
+    {
+      "designation": "UPN 350",
+      "G_kg_ml": 60.6,
+      "dimensions": {
+        "h_mm": 350.0,
+        "b_mm": 100.0,
+        "tw_mm": 14.0,
+        "tf_mm": 16.0,
+        "r_mm": 16.0
+      },
+      "section": {
+        "A_cm2": 77.3,
+        "Avy_cm2": 50.84,
+        "Avz_cm2": 32.0
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 12840.0,
+        "Wely_cm3": 734.0,
+        "Wply_cm3": 918.0,
+        "iy_cm": 12.9
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 570.0,
+        "Welz_cm3": 75.0,
+        "Wplz_cm3": 143.0,
+        "iz_cm": 2.72
+      }
+    },
+    {
+      "designation": "UPN 380",
+      "G_kg_ml": 63.1,
+      "dimensions": {
+        "h_mm": 380.0,
+        "b_mm": 102.0,
+        "tw_mm": 13.5,
+        "tf_mm": 16.0,
+        "r_mm": 16.0
+      },
+      "section": {
+        "A_cm2": 80.4,
+        "Avy_cm2": 53.23,
+        "Avz_cm2": 32.64
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 15760.0,
+        "Wely_cm3": 829.0,
+        "Wply_cm3": 1014.0,
+        "iy_cm": 14.0
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 615.0,
+        "Welz_cm3": 78.7,
+        "Wplz_cm3": 148.0,
+        "iz_cm": 2.77
+      }
+    },
+    {
+      "designation": "UPN 400",
+      "G_kg_ml": 71.8,
+      "dimensions": {
+        "h_mm": 400.0,
+        "b_mm": 110.0,
+        "tw_mm": 14.0,
+        "tf_mm": 18.0,
+        "r_mm": 18.0
+      },
+      "section": {
+        "A_cm2": 91.5,
+        "Avy_cm2": 58.55,
+        "Avz_cm2": 39.6
+      },
+      "axe_fort_y": {
+        "Iy_cm4": 20350.0,
+        "Wely_cm3": 1020.0,
+        "Wply_cm3": 1240.0,
+        "iy_cm": 14.9
+      },
+      "axe_faible_z": {
+        "Iz_cm4": 846.0,
+        "Welz_cm3": 102.0,
+        "Wplz_cm3": 190.0,
+        "iz_cm": 3.04
+      }
+    }
+  ]
+}

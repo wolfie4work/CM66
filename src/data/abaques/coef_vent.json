@@ -1,0 +1,6 @@
+{
+  "zone_I": { "normale": 50, "extreme": 87.5 },
+  "zone_II": { "normale": 70, "extreme": 122.5 },
+  "zone_III": { "normale": 90, "extreme": 157.5 },
+  "zone_IV": { "normale": 105, "extreme": 183.75 }
+}
