@@ -1,4 +1,4 @@
-import { Profil } from './catalogue';
+import { Profil } from '../types/profil';
 
 export interface PannesInput {
   portee: number;       // Portée de la panne L (m)
